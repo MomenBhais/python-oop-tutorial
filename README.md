@@ -92,9 +92,7 @@ To run the Jupyter Notebooks smoothly, you need the following environment:
 
 ```bash
 pip install notebook jupyterlab
-
-pip install notebook jupyterlab
-
+```
 ## 📚 Additional Resources
 
 If you want to deepen your understanding of Object-Oriented Programming (OOP) in Python, you can check out the following resources:
