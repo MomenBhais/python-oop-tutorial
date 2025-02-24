@@ -115,7 +115,3 @@ If you have any questions or inquiries, feel free to reach out to me:
 
 - **Name**: Momen Mohammed Bhais
 - **Email**: [momenbhais@outlook.com](mailto:momenbhais@outlook.com)
-
----
-
-**Note**: This course is designed for individuals with prior knowledge of Python basics. If you're new to Python, we recommend reviewing the fundamentals of the language before starting this course.
