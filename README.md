@@ -97,7 +97,7 @@ pip install notebook jupyterlab
 
 If you want to deepen your understanding of Object-Oriented Programming (OOP) in Python, you can check out the following resources:
 
-1. **[Object-Oriented Python: Master OOP by Building Games and GUIs](https://matematika-mipa.unsri.ac.id/wp-content/uploads/2023/01/Object-Oriented-Python.pdf)**  
+1. **[Object-Oriented Python: Master OOP by Building Games and GUIs](https://matematika-mipa.unsri.ac.id/wp-content/uploads/2022/05/Object-Oriented-Python-Master-OOP-by-Building-Games-and-GUIs-Irv-Kalb-z-lib.org_.pdf)**  
    - This book provides a comprehensive and detailed explanation of Object-Oriented Programming in Python, with practical examples.  
    - It is a strong reference for deeply understanding OOP and applying it in real-world projects.  
    - The book is authored by **Irv Kalb**, known for his clear and simplified teaching methods.  
