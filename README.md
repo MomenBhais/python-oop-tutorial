@@ -93,25 +93,27 @@ To run the Jupyter Notebooks smoothly, you need the following environment:
 ```bash
 pip install notebook jupyterlab
 
+pip install notebook jupyterlab
+
 ## 📚 Additional Resources
 
 If you want to deepen your understanding of Object-Oriented Programming (OOP) in Python, you can check out the following resources:
 
-1. **[Object-Oriented Python: Master OOP by Building Games and GUIs](https://matematika-mipa.unsri.ac.id/wp-content/uploads/2022/05/Object-Oriented-Python-Master-OOP-by-Building-Games-and-GUIs-Irv-Kalb-z-lib.org_.pdf)**:
-   - This book provides a comprehensive and detailed explanation of Object-Oriented Programming in Python, with practical examples through building games and graphical user interfaces (GUIs).
-   - It is a strong reference for deeply understanding OOP and applying it in real-world projects.
-   - The book is authored by **Irv Kalb**, known for his clear and simplified teaching methods.
-   - If you want to master OOP in Python, this book is a **must-read** and an indispensable reference.
+1. **[Object-Oriented Python: Master OOP by Building Games and GUIs](https://matematika-mipa.unsri.ac.id/wp-content/uploads/2023/01/Object-Oriented-Python.pdf)**  
+   - This book provides a comprehensive and detailed explanation of Object-Oriented Programming in Python, with practical examples.  
+   - It is a strong reference for deeply understanding OOP and applying it in real-world projects.  
+   - The book is authored by **Irv Kalb**, known for his clear and simplified teaching methods.  
+   - If you want to master OOP in Python, this book is a **must-read** and an indispensable reference.  
 
-2. **[Object-Oriented Python Tutorial by TutorialsPoint](https://www.tutorialspoint.com/object_oriented_python/object_oriented_python_tutorial.pdf)**:
-   - This guide from **TutorialsPoint** provides a simplified and clear explanation of Object-Oriented Programming in Python.
-   - It includes practical examples and direct applications to facilitate understanding of basic and advanced OOP concepts.
-   - It is an excellent reference for both beginners and advanced learners.
-   - If you want a quick start and practical understanding of OOP, this guide is an ideal choice.
+2. **[Object-Oriented Python Tutorial by TutorialsPoint](https://www.tutorialspoint.com/object_oriented_python/object_oriented_python_tutorial.pdf)**  
+   - This guide from **TutorialsPoint** provides a simplified and clear explanation of Object-Oriented Programming in Python.  
+   - It includes practical examples and direct applications to facilitate understanding of basic and advanced OOP concepts.  
+   - It is an excellent reference for both beginners and advanced learners.  
+   - If you want a quick start and practical understanding of OOP, this guide is an ideal choice.  
 
 ## 📞 Contact
 
 If you have any questions or inquiries, feel free to reach out to me:
 
-- **Name**: Momen Mohammed Bhais
+- **Name**: Momen Mohammed Bhais  
 - **Email**: [momenbhais@outlook.com](mailto:momenbhais@outlook.com)
