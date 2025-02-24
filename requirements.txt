@@ -1,0 +1,4 @@
+- Python 3.x: You can download Python from the [official website](https://www.python.org/downloads/).
+- Jupyter Notebook or JupyterLab: You can install it using the following command:
+
+pip install notebook jupyterlab
